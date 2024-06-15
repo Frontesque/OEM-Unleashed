@@ -76,3 +76,18 @@
  - Once the file is updated, save it.
  - Upload the modified file to the root of your C drive.
   - Enjoy the look and feel of a stock dashboard with the featurs of a modded dash!
+
+# Optional Change
+ - In the same config file above locate the line
+
+```
+			<Skin Path="E:\Dash\Unleashx\Skins">UnleashedX</Skin>
+```
+
+And cange it to:
+
+```
+			<Skin Path="E:\Dash\Unleashx\Skins">OEM Unleashed</Skin>
+```
+
+This will change your screensaver to call out the name of the dashboard.
