@@ -1,10 +1,16 @@
-<img src="https://github.com/Frontesque/OEM-Unleashed/blob/main/dashboard/orb.png?raw=true" alt="Xbox Logo" width="200"/>
+<img src="https://raw.githubusercontent.com/Frontesque/OEM-Unleashed/main/dashboard/Orb.png" alt="Xbox Logo" width="200"/>
 
 # OEM Unleashed
 The UnleashedX dashboard that adhears to the official design language. 
 
 ## Why?
 After many years, we decided to uncover our old Xbox that was running UnleashedX. We felt as though none of the skins really captured the true feel of the stock Xbox homescreen, which was nostalgic for us. We decided to create our own, to give us as close of a feel as possible.
+
+## Preview
+| OEM Unleashed  | Stock "MSDash"  |
+| ------------ | ------------ |
+| <img src="https://github.com/Frontesque/OEM-Unleashed/blob/main/images/preview.jpg?raw=true" alt="OEM Unleashed Preview" width="400"/>  | <img src="https://github.com/Frontesque/OEM-Unleashed/blob/main/images/stock.png?raw=true" alt="OEM Unleashed Preview" width="400"/>  |
+
 
 
 ## Credits
