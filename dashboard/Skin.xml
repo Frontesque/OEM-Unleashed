@@ -27,10 +27,10 @@
 
 		</Menu>
 
-		<Image Left="350" Top="74" Width="251" Height="37" Source="MenuWindow.png"></Image>
-		<Image Left="375" Top="124" Width="251" Height="37" Source="MenuWindow.png"></Image>
-		<Image Left="375" Top="174" Width="251" Height="37" Source="MenuWindow.png"></Image>
-		<Image Left="350" Top="224" Width="251" Height="37" Source="MenuWindow.png"></Image>
+		<Image Left="350" Top="74" Width="506" Height="103" Source="MenuWindow.png"></Image>
+		<Image Left="375" Top="124" Width="506" Height="106" Source="MenuWindow.png"></Image>
+		<Image Left="375" Top="174" Width="506" Height="106" Source="MenuWindow.png"></Image>
+		<Image Left="350" Top="224" Width="506" Height="106" Source="MenuWindow.png"></Image>
 
 		<*Shape Type="Rectangle" Left="321" Top="80" Width="258" Height="24" BorderColor="0xFF467527" BackColor="0xFF1A4409"></Shape>
 		<*Shape Type="Rectangle" Left="339" Top="120" Width="258" Height="24" BorderColor="0xFF467527" BackColor="0xFF1A4409"></Shape>
