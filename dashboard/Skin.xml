@@ -20,17 +20,17 @@
 			<*itempos left="340" top="246" width="258"></itempos>
 			<*itempos left="322" top="288" width="258"></itempos>
 
-			<itempos left="356" top="80" width="241"></itempos>
+			<itempos left="352" top="110" width="246"></itempos>
 			<itempos left="381" top="130" width="241"></itempos>
 			<itempos left="381" top="180" width="241"></itempos>
 			<itempos left="356" top="230" width="241"></itempos>
 
 		</Menu>
 
-		<Image Left="350" Top="74" Width="506" Height="103" Source="MenuWindow.png"></Image>
-		<Image Left="375" Top="124" Width="506" Height="106" Source="MenuWindow.png"></Image>
-		<Image Left="375" Top="174" Width="506" Height="106" Source="MenuWindow.png"></Image>
-		<Image Left="350" Top="224" Width="506" Height="106" Source="MenuWindow.png"></Image>
+		<Image Left="265" Top="74" Width="338" Height="72" Source="MenuWindow.png"></Image>
+		<*Image Left="375" Top="124" Width="506" Height="106" Source="MenuWindow.png"></Image>
+		<*Image Left="375" Top="174" Width="506" Height="106" Source="MenuWindow.png"></Image>
+		<*Image Left="350" Top="224" Width="506" Height="106" Source="MenuWindow.png"></Image>
 
 		<*Shape Type="Rectangle" Left="321" Top="80" Width="258" Height="24" BorderColor="0xFF467527" BackColor="0xFF1A4409"></Shape>
 		<*Shape Type="Rectangle" Left="339" Top="120" Width="258" Height="24" BorderColor="0xFF467527" BackColor="0xFF1A4409"></Shape>
@@ -66,12 +66,12 @@
 
 		<CAPTION_TEXTCOLOR>0xFFffff00</CAPTION_TEXTCOLOR>
 		<CAPTION_BACKCOLOR>0xFF28590F</CAPTION_BACKCOLOR>
+
 		<DIALOG_BORDERCOLOR>0xFFFFFFFF</DIALOG_BORDERCOLOR>
 		<DIALOG_BACKCOLOR>0xCD93AF00</DIALOG_BACKCOLOR>
 		<DIALOG_INNER_BORDERCOLOR>0xFFFFE2B4</DIALOG_INNER_BORDERCOLOR>
 		<DIALOG_INNER_BACKCOLOR>0xE1072700</DIALOG_INNER_BACKCOLOR>
 		<DIALOG_TEXTCOLOR>0xFFFFFFFF</DIALOG_TEXTCOLOR>
-
 		<DIALOG_DISABLEDTEXT>0x7F195408</DIALOG_DISABLEDTEXT>
 
 		<OPTION_TEXTCOLOR>0xFFFFFFFF</OPTION_TEXTCOLOR>
@@ -86,6 +86,7 @@
 		
 		<KB_KEYBG_HIGHLIGHT>0xCC00C000</KB_KEYBG_HIGHLIGHT>
 		<KB_KEYBG_DISABLED>0xffc0c0c0</KB_KEYBG_DISABLED>
+
 		<KB_KEY_PRESSED>0xff808080</KB_KEY_PRESSED>
 		<KB_KEY_NORMAL>0xff000000</KB_KEY_NORMAL>
 		<KB_KEY_DISABLED>0xff808080</KB_KEY_DISABLED>
@@ -101,4 +102,4 @@
 		<MENU_ACTIVEBACKCOLOR>0xAFCD00</MENU_ACTIVEBACKCOLOR>
 		<MENU_ACTIVEBORDERCOLOR>0xAFCD00</MENU_ACTIVEBORDERCOLOR>
 	</ColorScheme>
-	</Skin>
+</Skin>
