@@ -16,4 +16,4 @@ After many years, we decided to uncover our old Xbox that was running UnleashedX
 ## Credits
 - Rapitharian for most of the dashboard's Skin file.
 - Frontesque for the dashboard's custom assets.
-- This skin uses "TrueMSdash" 1.0 by PeterPL as a base.
+- This skin uses "TrueMSdash" 1.0 by PeterPL as a starting point and educational tool.
