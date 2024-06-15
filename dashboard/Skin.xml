@@ -1,4 +1,4 @@
-<Skin name="TrueMSdash">
+<Skin name="OEM Unleashed">
 	<Information>
 		<Author>Frontesque & Rapitharian</Author>
 		<Copyright>Copyright 2024</Copyright>
@@ -11,9 +11,13 @@
 		<Cellwall>cell.png</Cellwall>
 		<Icon>orb.png</Icon>
 		<Image Left="425" Top="375" Width="101" Height="34" Source="Select.png"></Image>
+		<*Image Left="270" Top="75" Width="69" Height="232" Source="Orbs2.png"></Image>
+		<Image Left="270" Top="65" Width="77" Height="258" Source="Orbs2.png"></Image>
+		<*Image Left="270" Top="74" Width="336" Height="81" Source="MenuWindow.png"></Image>
 
-		<Menu Smooth="false" ShowIcon="false" Rotate="false" Opacity="2" ShowArrows="True">
-			<font>prototype_14.xpr</font>
+		<Menu Smooth="false" ShowIcon="false" Rotate="false" Opacity="2" ShowArrows="false">
+			<*font>prototype_14.xpr</font>
+			<font>Crystal_clear_14.xpr</font>
 			<*itempos left="331" top="80" width="241"></itempos>
 			<*itempos left="340" top="120" width="258"></itempos>
 			<*itempos left="348" top="162" width="258"></itempos>
@@ -21,17 +25,17 @@
 			<*itempos left="340" top="246" width="258"></itempos>
 			<*itempos left="322" top="288" width="258"></itempos>
 
-			<itempos left="352" top="110" width="246"></itempos>
-			<itempos left="381" top="130" width="241"></itempos>
-			<itempos left="381" top="180" width="241"></itempos>
-			<itempos left="356" top="230" width="241"></itempos>
+			<itempos left="352" top="108" width="246"></itempos>
+			<itempos left="372" top="180" width="246"></itempos>
+			<itempos left="372" top="250" width="246"></itempos>
+			<itempos left="352" top="322" width="246"></itempos>
 
 		</Menu>
 
-		<Image Left="265" Top="74" Width="338" Height="72" Source="MenuWindow.png"></Image>
-		<Image Left="290" Top="146" Width="338" Height="72" Source="MenuWindow.png"></Image>
-		<*Image Left="375" Top="174" Width="506" Height="106" Source="MenuWindow.png"></Image>
-		<*Image Left="350" Top="224" Width="506" Height="106" Source="MenuWindow.png"></Image>
+		<Image Left="270" Top="72" Width="336" Height="81" Source="MenuWindow.png"></Image>
+		<Image Left="290" Top="143" Width="336" Height="81" Source="MenuWindow.png"></Image>
+		<Image Left="290" Top="214" Width="336" Height="81" Source="MenuWindow.png"></Image>
+		<Image Left="270" Top="285" Width="336" Height="81" Source="MenuWindow.png"></Image>
 
 		<*Shape Type="Rectangle" Left="321" Top="80" Width="258" Height="24" BorderColor="0xFF467527" BackColor="0xFF1A4409"></Shape>
 		<*Shape Type="Rectangle" Left="339" Top="120" Width="258" Height="24" BorderColor="0xFF467527" BackColor="0xFF1A4409"></Shape>
