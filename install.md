@@ -77,7 +77,8 @@
  - Upload the modified file to the root of your C drive.
   - Enjoy the look and feel of a stock dashboard with the featurs of a modded dash!
 
-# Optional Change
+# Optional Changes
+# Changing the Screensaver
  - In the same config file above locate the line
 
 ```
@@ -91,3 +92,8 @@ And cange it to:
 ```
 
 This will change your screensaver to call out the name of the dashboard.
+
+# Data Display options
+ - If you want to have a clean version of the dash, ie not displaying any data.  Delete the Skins.xml file and copy/paste then rename Clean-Skins.xml to Skins.xml.
+ - If you want a version that shows the MB and CPU temps, delete the Skins.xml file and copy/paste then rename Temps-Skins.xml to Skins.xml.
+ - If you want to restore the origial design, delete the Skins.xml file and copy/paste then rename Standard-Skins.xml to Skins.xml.
