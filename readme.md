@@ -9,7 +9,7 @@ After many years, we decided to uncover our old Xbox that was running UnleashedX
 ## Preview
 | OEM Unleashed  | Stock "MSDash"  |
 | ------------ | ------------ |
-| <img src="https://github.com/Frontesque/OEM-Unleashed/blob/main/images/preview.jpg?raw=true" alt="OEM Unleashed Preview" width="400"/>  | <img src="https://github.com/Frontesque/OEM-Unleashed/blob/main/images/stock.png?raw=true" alt="OEM Unleashed Preview" width="400"/>  |
+| <img src="https://github.com/Frontesque/OEM-Unleashed/blob/main/images/preview.jpg?raw=true" alt="OEM Unleashed Preview" width="400"/>  | <img src="https://github.com/Frontesque/OEM-Unleashed/blob/main/images/stock.jpg?raw=true" alt="OEM Unleashed Preview" width="400"/>  |
 
 
 
