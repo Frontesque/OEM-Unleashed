@@ -27,8 +27,8 @@
 		<Image Left="320" Top="192" Width="301" Height="70" Source="MenuWindow.png"></Image>
 		<Image Left="300" Top="254" Width="301" Height="70" Source="MenuWindow.png"></Image>
 
-		<*Text Left="15" Top="370" Align="left" Color="0xFF7fce31" Source="CPUTemp"></Text>
-		<*Text Left="15" Top="390" Align="left" Color="0xFF7fce31" Source="MBTemp"></Text>
+		<Text Left="15" Top="370" Align="left" Color="0xFF7fce31" Source="CPUTemp"></Text>
+		<Text Left="15" Top="390" Align="left" Color="0xFF7fce31" Source="MBTemp"></Text>
 		<Text Left="15" Top="410" Align="left" Color="0xFF7fce31" Source="E_FreeMB"></Text>
 		<Text Left="15" Top="430" Align="left" Color="0xFF7fce31" Source="Free Mem: $FreeMemory$"></Text>
 		<Text Left="15" Top="450" Align="left" Color="0xFF7fce31" Source="IP"></Text>

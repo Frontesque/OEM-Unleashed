@@ -29,12 +29,12 @@
 
 		<*Text Left="15" Top="370" Align="left" Color="0xFF7fce31" Source="CPUTemp"></Text>
 		<*Text Left="15" Top="390" Align="left" Color="0xFF7fce31" Source="MBTemp"></Text>
-		<Text Left="15" Top="410" Align="left" Color="0xFF7fce31" Source="E_FreeMB"></Text>
-		<Text Left="15" Top="430" Align="left" Color="0xFF7fce31" Source="Free Mem: $FreeMemory$"></Text>
-		<Text Left="15" Top="450" Align="left" Color="0xFF7fce31" Source="IP"></Text>
+		<*Text Left="15" Top="410" Align="left" Color="0xFF7fce31" Source="E_FreeMB"></Text>
+		<*Text Left="15" Top="430" Align="left" Color="0xFF7fce31" Source="Free Mem: $FreeMemory$"></Text>
+		<*Text Left="15" Top="450" Align="left" Color="0xFF7fce31" Source="IP"></Text>
 
-		<Text Left="465" Top="430" Align="left" Color="0xFF7fce31" Source="Date: $Date$"></Text>
-		<Text Left="465" Top="450" Align="left" Color="0xFF7fce31" Source="Time: $Time$"></Text>
+		<*Text Left="465" Top="430" Align="left" Color="0xFF7fce31" Source="Date: $Date$"></Text>
+		<*Text Left="465" Top="450" Align="left" Color="0xFF7fce31" Source="Time: $Time$"></Text>
 
 	</Main>
 
