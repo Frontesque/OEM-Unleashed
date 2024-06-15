@@ -5,44 +5,27 @@
 		<Version>1.0</Version>
 	</Information>
 	<Main Globe="true" Orb="true">
-		<*InfoFont>XBox_Book_11.xpr</InfoFont>
-		<BackGround>fog.png</BackGround>
+		<*InfoFont>Crystal_clear_14.xpr</InfoFont>
+		<*BackGround>fog.png</BackGround>
 		<Orb>orb.png</Orb>
 		<Cellwall>cell.png</Cellwall>
 		<Icon>orb.png</Icon>
 		<Image Left="425" Top="375" Width="101" Height="34" Source="Select.png"></Image>
-		<*Image Left="270" Top="75" Width="69" Height="232" Source="Orbs2.png"></Image>
-		<Image Left="270" Top="65" Width="77" Height="258" Source="Orbs2.png"></Image>
-		<*Image Left="270" Top="74" Width="336" Height="81" Source="MenuWindow.png"></Image>
+		<Image Left="262" Top="65" Width="77" Height="258" Source="Orbs3.png"></Image>
+		<Image Left="442" Top="358" Width="277" Height="151" Source="Cord.png"></Image>
 
 		<Menu Smooth="false" ShowIcon="false" Rotate="false" Opacity="2" ShowArrows="false">
-			<*font>prototype_14.xpr</font>
 			<font>Crystal_clear_14.xpr</font>
-			<*itempos left="331" top="80" width="241"></itempos>
-			<*itempos left="340" top="120" width="258"></itempos>
-			<*itempos left="348" top="162" width="258"></itempos>
-			<*itempos left="348" top="204" width="258"></itempos>
-			<*itempos left="340" top="246" width="258"></itempos>
-			<*itempos left="322" top="288" width="258"></itempos>
-
-			<itempos left="352" top="108" width="246"></itempos>
-			<itempos left="372" top="180" width="246"></itempos>
-			<itempos left="372" top="250" width="246"></itempos>
-			<itempos left="352" top="322" width="246"></itempos>
-
+			<itempos left="347" top="108" width="246"></itempos>
+			<itempos left="367" top="169" width="246"></itempos>
+			<itempos left="367" top="230" width="246"></itempos>
+			<itempos left="347" top="292" width="246"></itempos>
 		</Menu>
 
-		<Image Left="270" Top="72" Width="336" Height="81" Source="MenuWindow.png"></Image>
-		<Image Left="290" Top="143" Width="336" Height="81" Source="MenuWindow.png"></Image>
-		<Image Left="290" Top="214" Width="336" Height="81" Source="MenuWindow.png"></Image>
-		<Image Left="270" Top="285" Width="336" Height="81" Source="MenuWindow.png"></Image>
-
-		<*Shape Type="Rectangle" Left="321" Top="80" Width="258" Height="24" BorderColor="0xFF467527" BackColor="0xFF1A4409"></Shape>
-		<*Shape Type="Rectangle" Left="339" Top="120" Width="258" Height="24" BorderColor="0xFF467527" BackColor="0xFF1A4409"></Shape>
-		<*Shape Type="Rectangle" Left="347" Top="162" Width="258" Height="24" BorderColor="0xFF467527" BackColor="0xFF1A4409"></Shape>
-		<*Shape Type="Rectangle" Left="347" Top="204" Width="258" Height="24" BorderColor="0xFF467527" BackColor="0xFF1A4409"></Shape>
-		<*Shape Type="Rectangle" Left="339" Top="246" Width="258" Height="24" BorderColor="0xFF467527" BackColor="0xFF1A4409"></Shape>
-		<*Shape Type="Rectangle" Left="321" Top="288" Width="258" Height="24" BorderColor="0xFF467527" BackColor="0xFF2A4409"></Shape>
+		<Image Left="300" Top="71" Width="301" Height="70" Source="MenuWindow.png"></Image>
+		<Image Left="320" Top="131" Width="301" Height="70" Source="MenuWindow.png"></Image>
+		<Image Left="320" Top="192" Width="301" Height="70" Source="MenuWindow.png"></Image>
+		<Image Left="300" Top="254" Width="301" Height="70" Source="MenuWindow.png"></Image>
 
 		<Text Left="15" Top="410" Align="left" Color="0xFF7fce31" Source="E_FreeMB"></Text>
 		<Text Left="15" Top="430" Align="left" Color="0xFF7fce31" Source="Free Mem: $FreeMemory$"></Text>
@@ -51,33 +34,27 @@
 		<Text Left="465" Top="430" Align="left" Color="0xFF7fce31" Source="Date: $Date$"></Text>
 		<Text Left="465" Top="450" Align="left" Color="0xFF7fce31" Source="Time: $Time$"></Text>
 
-		<*Text Left="15" Top="380" Align="left" width="600" Color="0xFF7fce31" Source="News: $Newsfeed$"></Text>
 		<*Text Left="625" Top="430" Align="right" Color="0xFF7fce31" Source="MBTemp"></Text>
-		<*Text Left="625" Top="430" Align="right" Color="0xFF7fce31" Source="VideoMode"></Text>
-		<*Text Left="10" Top="100" Align="left" Color="0xFFFFFFFF" Source="Tray"></Text>
-		<*Text Left="15" Top="35" Color="0xFF7fce31" Source="f_freemb"></Text>
-		<*Text Left="15" Top="55" Color="0xFF7fce31" Source="DVD: $DVDTitle$"></Text>
-		<*Text Left="10" Top="110" Color="0xFF7fce31" Source="DVD: $Tray$"></Text>
-		<*Text Left="15" Top="430" Align="Left" Color="0xFF7fce31" Source="SongName"></Text>
-		<*Text Left="15" Top="450" Align="Left" Color="0xFF7fce31" Source="SongTime"></Text>
-		<*Text Left="625" Top="430" Align="Right" Color="0xFF749501" Source="NumClient"></Text>
-		<*Text Left="15" Top="410" Align="Left" Color="0xFF7fce31" Source="SoundTrack">News</Text> 
+
 	</Main>
 
 	<ColorScheme Name="Default">
-		<AMBIENT_FOGCOLOR>0xff153101</AMBIENT_FOGCOLOR>
+		<*AMBIENT_FOGCOLOR>0xff153101</AMBIENT_FOGCOLOR>
+		<AMBIENT_FOGCOLOR>0x0A2703</AMBIENT_FOGCOLOR>
 		<AMBIENT_SKYCOLOR>0xFF000000</AMBIENT_SKYCOLOR>
 		<AMBIENT_CELLCOLOR>0xFFFFFFFF</AMBIENT_CELLCOLOR>
 
 		<CAPTION_TEXTCOLOR>0xFFffff00</CAPTION_TEXTCOLOR>
 		<CAPTION_BACKCOLOR>0xFF28590F</CAPTION_BACKCOLOR>
 
+		<CAPTION_TEXTCOLOR>0xFFFFFFFF</CAPTION_TEXTCOLOR>
+		<CAPTION_BACKCOLOR>0xFF000000</CAPTION_BACKCOLOR>
 		<DIALOG_BORDERCOLOR>0xFFFFFFFF</DIALOG_BORDERCOLOR>
-		<DIALOG_BACKCOLOR>0xCD93AF00</DIALOG_BACKCOLOR>
-		<DIALOG_INNER_BORDERCOLOR>0xFFFFE2B4</DIALOG_INNER_BORDERCOLOR>
-		<DIALOG_INNER_BACKCOLOR>0xE1072700</DIALOG_INNER_BACKCOLOR>
+		<DIALOG_BACKCOLOR>0xFF06870D</DIALOG_BACKCOLOR>
+		<DIALOG_INNER_BORDERCOLOR>0xFFFFFFFF</DIALOG_INNER_BORDERCOLOR>
+		<DIALOG_INNER_BACKCOLOR>0xFF06870D</DIALOG_INNER_BACKCOLOR>
 		<DIALOG_TEXTCOLOR>0xFFFFFFFF</DIALOG_TEXTCOLOR>
-		<DIALOG_DISABLEDTEXT>0x7F195408</DIALOG_DISABLEDTEXT>
+		<DIALOG_DISABLEDTEXT>0xFFC0C0C0</DIALOG_DISABLEDTEXT>
 
 		<OPTION_TEXTCOLOR>0xFFFFFFFF</OPTION_TEXTCOLOR>
 		<OPTION_ACTIVETEXTCOLOR>0xFF072700</OPTION_ACTIVETEXTCOLOR>
@@ -102,9 +79,9 @@
 		
 		<MENU_TEXTCOLOR>0xff7fce31</MENU_TEXTCOLOR>
 		<MENU_ACTIVETEXTCOLOR>0xff081c00</MENU_ACTIVETEXTCOLOR>
-		<MENU_BORDERCOLOR>0xcd93aff00</MENU_BORDERCOLOR>
-		<MENU_BACKCOLOR>0xff8c9305</MENU_BACKCOLOR>
-		<MENU_ACTIVEBACKCOLOR>0xAFCD00</MENU_ACTIVEBACKCOLOR>
-		<MENU_ACTIVEBORDERCOLOR>0xAFCD00</MENU_ACTIVEBORDERCOLOR>
+		<*MENU_BORDERCOLOR>0xcd93aff00</MENU_BORDERCOLOR>
+		<*MENU_BACKCOLOR>0xff8c9305</MENU_BACKCOLOR>
+		<MENU_ACTIVEBACKCOLOR>0x889D00</MENU_ACTIVEBACKCOLOR>
+		<*MENU_ACTIVEBORDERCOLOR>0x889D00</MENU_ACTIVEBORDERCOLOR>
 	</ColorScheme>
 </Skin>
