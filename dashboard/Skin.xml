@@ -1,40 +1,45 @@
 <Skin name="TrueMSdash">
 	<Information>
-		<Author>Peter PL</Author>
-		<Copyright>Copyright 2004</Copyright>
+		<Author>Frontesque & Rapitharian</Author>
+		<Copyright>Copyright 2024</Copyright>
 		<Version>1.0</Version>
 	</Information>
 	<Main Globe="true" Orb="true">
-        <*InfoFont>XBox_Book_11.xpr</InfoFont>
-        <BackGround>fog.png</BackGround>
-        <Orb>orb.png</Orb>
-        <Cellwall>cell.png</Cellwall>
-	    <Icon>orb.png</Icon>
-		<*Image>MenuWindow.png</Image>
-		<Image Left="325" Top="75" Width="251" Height="37" Source="MenuWindow.png"></Image>
-		<Menu Smooth="false" ShowIcon="false" Rotate="false" Opacity="2" ShowArrows="True">        
+		<*InfoFont>XBox_Book_11.xpr</InfoFont>
+		<BackGround>fog.png</BackGround>
+		<Orb>orb.png</Orb>
+		<Cellwall>cell.png</Cellwall>
+		<Icon>orb.png</Icon>
+
+		<Menu Smooth="false" ShowIcon="false" Rotate="false" Opacity="2" ShowArrows="True">
 			<font>prototype_14.xpr</font>
-			<itempos left="331" top="80" width="241"></itempos>
-			<itempos left="340" top="120" width="258"></itempos>
-			<itempos left="348" top="162" width="258"></itempos>
-			<itempos left="348" top="204" width="258"></itempos>
-			<itempos left="340" top="246" width="258"></itempos>
-			<itempos left="322" top="288" width="258"></itempos>
+			<*itempos left="331" top="80" width="241"></itempos>
+			<*itempos left="340" top="120" width="258"></itempos>
+			<*itempos left="348" top="162" width="258"></itempos>
+			<*itempos left="348" top="204" width="258"></itempos>
+			<*itempos left="340" top="246" width="258"></itempos>
+			<*itempos left="322" top="288" width="258"></itempos>
 		</Menu>
-        <*Shape Type="Rectangle" Left="321" Top="80" Width="258" Height="24" BorderColor="0xFF467527" BackColor="0xFF1A4409"></Shape>
-	    <*Shape Type="Rectangle" Left="339" Top="120" Width="258" Height="24" BorderColor="0xFF467527" BackColor="0xFF1A4409"></Shape>
-	    <*Shape Type="Rectangle" Left="347" Top="162" Width="258" Height="24" BorderColor="0xFF467527" BackColor="0xFF1A4409"></Shape>
-	    <*Shape Type="Rectangle" Left="347" Top="204" Width="258" Height="24" BorderColor="0xFF467527" BackColor="0xFF1A4409"></Shape>
-	    <*Shape Type="Rectangle" Left="339" Top="246" Width="258" Height="24" BorderColor="0xFF467527" BackColor="0xFF1A4409"></Shape>
-	    <*Shape Type="Rectangle" Left="321" Top="288" Width="258" Height="24" BorderColor="0xFF467527" BackColor="0xFF2A4409"></Shape>
-		
+
+		<Image Left="325" Top="75" Width="251" Height="37" Source="MenuWindow.png"></Image>
+		<Image Left="350" Top="125" Width="251" Height="37" Source="MenuWindow.png"></Image>
+		<Image Left="375" Top="175" Width="251" Height="37" Source="MenuWindow.png"></Image>
+		<Image Left="350" Top="225" Width="251" Height="37" Source="MenuWindow.png"></Image>
+
+		<*Shape Type="Rectangle" Left="321" Top="80" Width="258" Height="24" BorderColor="0xFF467527" BackColor="0xFF1A4409"></Shape>
+		<*Shape Type="Rectangle" Left="339" Top="120" Width="258" Height="24" BorderColor="0xFF467527" BackColor="0xFF1A4409"></Shape>
+		<*Shape Type="Rectangle" Left="347" Top="162" Width="258" Height="24" BorderColor="0xFF467527" BackColor="0xFF1A4409"></Shape>
+		<*Shape Type="Rectangle" Left="347" Top="204" Width="258" Height="24" BorderColor="0xFF467527" BackColor="0xFF1A4409"></Shape>
+		<*Shape Type="Rectangle" Left="339" Top="246" Width="258" Height="24" BorderColor="0xFF467527" BackColor="0xFF1A4409"></Shape>
+		<*Shape Type="Rectangle" Left="321" Top="288" Width="258" Height="24" BorderColor="0xFF467527" BackColor="0xFF2A4409"></Shape>
+
 		<Text Left="15" Top="15" Align="left" Color="0xFF7fce31" Source="E_FreeMB"></Text>
 		<Text Left="15" Top="35" Align="left" Color="0xFF7fce31" Source="FreeMemory"></Text>
 		<Text Left="405" Top="450" Align="left" Color="0xFF7fce31" Source="IP"></Text>
-		
+
 		<Text Left="465" Top="35" Align="left" Color="0xFF7fce31" Source="Time: $Time$"></Text>
-        <Text Left="465" Top="15" Align="left" Color="0xFF7fce31" Source="Date: $Date$"></Text>
-		
+		<Text Left="465" Top="15" Align="left" Color="0xFF7fce31" Source="Date: $Date$"></Text>
+
 		<*Text Left="15" Top="380" Align="left" width="600" Color="0xFF7fce31" Source="News: $Newsfeed$"></Text>
 		<*Text Left="625" Top="430" Align="right" Color="0xFF7fce31" Source="MBTemp"></Text>
 		<*Text Left="625" Top="430" Align="right" Color="0xFF7fce31" Source="VideoMode"></Text>
@@ -47,7 +52,7 @@
 		<*Text Left="625" Top="430" Align="Right" Color="0xFF749501" Source="NumClient"></Text>
 		<*Text Left="15" Top="410" Align="Left" Color="0xFF7fce31" Source="SoundTrack">News</Text> 
 	</Main>
-	
+
 	<ColorScheme Name="Default">
 		<AMBIENT_FOGCOLOR>0xff153101</AMBIENT_FOGCOLOR>
 		<AMBIENT_SKYCOLOR>0xFF000000</AMBIENT_SKYCOLOR>
