@@ -20,17 +20,17 @@
 			<*itempos left="340" top="246" width="258"></itempos>
 			<*itempos left="322" top="288" width="258"></itempos>
 
-			<itempos left="331" top="80" width="241"></itempos>
-			<itempos left="356" top="130" width="241"></itempos>
+			<itempos left="356" top="80" width="241"></itempos>
+			<itempos left="381" top="130" width="241"></itempos>
 			<itempos left="381" top="180" width="241"></itempos>
 			<itempos left="356" top="230" width="241"></itempos>
 
 		</Menu>
 
-		<Image Left="325" Top="75" Width="251" Height="37" Source="MenuWindow.png"></Image>
-		<Image Left="350" Top="125" Width="251" Height="37" Source="MenuWindow.png"></Image>
-		<Image Left="375" Top="175" Width="251" Height="37" Source="MenuWindow.png"></Image>
-		<Image Left="350" Top="225" Width="251" Height="37" Source="MenuWindow.png"></Image>
+		<Image Left="350" Top="74" Width="251" Height="37" Source="MenuWindow.png"></Image>
+		<Image Left="375" Top="123" Width="251" Height="37" Source="MenuWindow.png"></Image>
+		<Image Left="375" Top="173" Width="251" Height="37" Source="MenuWindow.png"></Image>
+		<Image Left="350" Top="224" Width="251" Height="37" Source="MenuWindow.png"></Image>
 
 		<*Shape Type="Rectangle" Left="321" Top="80" Width="258" Height="24" BorderColor="0xFF467527" BackColor="0xFF1A4409"></Shape>
 		<*Shape Type="Rectangle" Left="339" Top="120" Width="258" Height="24" BorderColor="0xFF467527" BackColor="0xFF1A4409"></Shape>
