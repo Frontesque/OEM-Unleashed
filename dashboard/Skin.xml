@@ -5,17 +5,17 @@
 		<Version>1.0</Version>
 	</Information>
 	<Main Globe="true" Orb="true">
-		<*InfoFont>Crystal_clear_14.xpr</InfoFont>
-		<*BackGround>fog.png</BackGround>
-		<Orb>orb.png</Orb>
-		<Cellwall>cell.png</Cellwall>
-		<Icon>orb.png</Icon>
+		<*InfoFont>Crystal_Clear_14.xpr</InfoFont>
+		<*BackGround>Fog.png</BackGround>
+		<Orb>Orb.png</Orb>
+		<Cellwall>Cell.png</Cellwall>
+		<Icon>Orb.png</Icon>
 		<Image Left="425" Top="375" Width="101" Height="34" Source="Select.png"></Image>
-		<Image Left="262" Top="65" Width="77" Height="258" Source="Orbs3.png"></Image>
+		<Image Left="262" Top="65" Width="77" Height="258" Source="Orbs.png"></Image>
 		<Image Left="442" Top="358" Width="277" Height="151" Source="Cord.png"></Image>
 
 		<Menu Smooth="false" ShowIcon="false" Rotate="false" Opacity="2" ShowArrows="false">
-			<font>Crystal_clear_14.xpr</font>
+			<font>Crystal_Clear_14.xpr</font>
 			<itempos left="347" top="108" width="246"></itempos>
 			<itempos left="367" top="169" width="246"></itempos>
 			<itempos left="367" top="230" width="246"></itempos>
