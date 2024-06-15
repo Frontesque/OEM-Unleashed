@@ -10,7 +10,7 @@
 		<Orb>orb.png</Orb>
 		<Cellwall>cell.png</Cellwall>
 		<Icon>orb.png</Icon>
-		<Image Left="300" Top="400" Width="59" Height="21" Source="Select.png"></Image>
+		<Image Left="425" Top="375" Width="101" Height="34" Source="Select.png"></Image>
 
 		<Menu Smooth="false" ShowIcon="false" Rotate="false" Opacity="2" ShowArrows="True">
 			<font>prototype_14.xpr</font>
@@ -40,12 +40,12 @@
 		<*Shape Type="Rectangle" Left="339" Top="246" Width="258" Height="24" BorderColor="0xFF467527" BackColor="0xFF1A4409"></Shape>
 		<*Shape Type="Rectangle" Left="321" Top="288" Width="258" Height="24" BorderColor="0xFF467527" BackColor="0xFF2A4409"></Shape>
 
-		<Text Left="15" Top="15" Align="left" Color="0xFF7fce31" Source="E_FreeMB"></Text>
-		<Text Left="15" Top="35" Align="left" Color="0xFF7fce31" Source="FreeMemory"></Text>
-		<Text Left="405" Top="450" Align="left" Color="0xFF7fce31" Source="IP"></Text>
+		<Text Left="15" Top="410" Align="left" Color="0xFF7fce31" Source="E_FreeMB"></Text>
+		<Text Left="15" Top="430" Align="left" Color="0xFF7fce31" Source="Free Mem: $FreeMemory$"></Text>
+		<Text Left="15" Top="450" Align="left" Color="0xFF7fce31" Source="IP"></Text>
 
-		<Text Left="465" Top="35" Align="left" Color="0xFF7fce31" Source="Time: $Time$"></Text>
-		<Text Left="465" Top="15" Align="left" Color="0xFF7fce31" Source="Date: $Date$"></Text>
+		<Text Left="465" Top="430" Align="left" Color="0xFF7fce31" Source="Date: $Date$"></Text>
+		<Text Left="465" Top="450" Align="left" Color="0xFF7fce31" Source="Time: $Time$"></Text>
 
 		<*Text Left="15" Top="380" Align="left" width="600" Color="0xFF7fce31" Source="News: $Newsfeed$"></Text>
 		<*Text Left="625" Top="430" Align="right" Color="0xFF7fce31" Source="MBTemp"></Text>
