@@ -10,6 +10,7 @@
 		<Orb>orb.png</Orb>
 		<Cellwall>cell.png</Cellwall>
 		<Icon>orb.png</Icon>
+		<Image Left="300" Top="400" Width="59" Height="21" Source="Select.png"></Image>
 
 		<Menu Smooth="false" ShowIcon="false" Rotate="false" Opacity="2" ShowArrows="True">
 			<font>prototype_14.xpr</font>
@@ -28,7 +29,7 @@
 		</Menu>
 
 		<Image Left="265" Top="74" Width="338" Height="72" Source="MenuWindow.png"></Image>
-		<*Image Left="375" Top="124" Width="506" Height="106" Source="MenuWindow.png"></Image>
+		<Image Left="290" Top="146" Width="338" Height="72" Source="MenuWindow.png"></Image>
 		<*Image Left="375" Top="174" Width="506" Height="106" Source="MenuWindow.png"></Image>
 		<*Image Left="350" Top="224" Width="506" Height="106" Source="MenuWindow.png"></Image>
 
