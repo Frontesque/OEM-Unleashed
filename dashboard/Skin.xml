@@ -19,6 +19,12 @@
 			<*itempos left="348" top="204" width="258"></itempos>
 			<*itempos left="340" top="246" width="258"></itempos>
 			<*itempos left="322" top="288" width="258"></itempos>
+
+			<*itempos left="331" top="80" width="241"></itempos>
+			<*itempos left="356" top="130" width="258"></itempos>
+			<*itempos left="381" top="180" width="258"></itempos>
+			<*itempos left="356" top="230" width="258"></itempos>
+
 		</Menu>
 
 		<Image Left="325" Top="75" Width="251" Height="37" Source="MenuWindow.png"></Image>
